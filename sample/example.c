@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	printf("Good Morning\nGood afternoon");
+	printf("Good Morning\n  Good afternoon")
 }
 
 
